@@ -18,6 +18,9 @@ main {
     background-color: salmon;
 }
 
+.link-list li {
+    display: inline;
+}
 footer {
     background-color: #f2f2f2;
     display: grid;
